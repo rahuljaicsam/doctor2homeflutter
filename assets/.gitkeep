@@ -1,0 +1,11 @@
+# Assets Directory
+This directory contains images and icons for the Doctor2Home app.
+
+## Structure
+- `images/` - App images and photos
+- `icons/` - App icons and UI elements
+
+## Notes
+- These directories are configured in pubspec.yaml
+- Assets are properly loaded in the Flutter web app
+- FontManifest.json is configured for web compatibility
